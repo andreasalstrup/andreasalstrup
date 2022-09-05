@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img align="left" alt="Andreas Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasalstrup&theme=nightowl" /> <br>
+<img align="right" alt="Andreas Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasalstrup&theme=nightowl" /> <br>
+
+<p> <img src="logos/vue.png" alt="vue icon"></img> Vue.js project: 
+  <a href="https://www.subtitle-sync.com/">Subtitle sync</a>
+</p>
 
 <!--
 **andreasalstrup/andreasalstrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
